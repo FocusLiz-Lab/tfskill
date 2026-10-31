@@ -1,0 +1,4 @@
+interface:
+  display_name: "The Futur · 报价与价值沟通"
+  short_description: "Build a 报价与价值沟通 using expert methodology"
+  default_prompt: "Use $tfs-pricing to build a practical 报价与价值沟通 for my situation."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "The Futur · 客户需求访谈"
+  short_description: "Build a 客户需求访谈 using expert methodology"
+  default_prompt: "Use $tfs-discovery to build a practical 客户需求访谈 for my situation."

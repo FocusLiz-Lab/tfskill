@@ -1,0 +1,4 @@
+interface:
+  display_name: "The Futur · 创意服务定位"
+  short_description: "Build a 创意服务定位 using expert methodology"
+  default_prompt: "Use $tfs-positioning to build a practical 创意服务定位 for my situation."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "The Futur IMA Bridge"
+  short_description: "Retrieve IMA evidence for expert workflows"
+  default_prompt: "Use $tfs-ima to retrieve IMA evidence and continue with the right The Futur workflow."

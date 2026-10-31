@@ -1,0 +1,246 @@
+{
+  "prefix": "tfs",
+  "repository": "tfskill",
+  "creator": "thefutur",
+  "source_files": 1039,
+  "unique_sources": 1031,
+  "modules": {
+    "learning-map": {
+      "matching_sources": 548,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录05 沟通领导与成长/180117 How do you Learn Soft Skills- Learning How to Learn..md",
+          "title": "180117 How do you Learn Soft Skills- Learning How to Learn.",
+          "url": "https://www.youtube.com/watch?v=NSgh1UVfKTU",
+          "date": "2018-01-17",
+          "sha256": "2ce8b217aac4d82313c33e39e5b65644d12a0aa59067b1dd2eac89a0bfe1b761",
+          "chars": 1518,
+          "excerpt": "Why not approach learning soft skills the same way you approach learning hard skills?"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 品牌营销与内容/231017 How To Amplify Your Influence 2023 w- Rene Rodriguez (full edit).md",
+          "title": "231017 How To Amplify Your Influence 2023 w- Rene Rodriguez (full edit)",
+          "url": "https://www.youtube.com/watch?v=MbGVbB5mkzA",
+          "date": "2023-10-17",
+          "sha256": "400ade5267828112babe5d209aa157204607c95e72fcd941055e972c6e98dd74",
+          "chars": 81318,
+          "excerpt": "Learn how opening with your internal emotions creates psychological safety and care, allowing you to then deliver the core message."
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录06 访谈案例与行业/230217 The Laws of Creativity- Whatever you think, think the opposite. w-Joey Cofone.md",
+          "title": "230217 The Laws of Creativity- Whatever you think, think the opposite. w-Joey Cofone",
+          "url": "https://www.youtube.com/watch?v=691Um--5S-8",
+          "date": "2023-02-17",
+          "sha256": "94845273a6474d75adc3021b90ba96e25ccb1a4e3fdb7009c7cad018d946b388",
+          "chars": 97968,
+          "excerpt": "you should be able to run past here go down and see me run back up how is it that you're more out of shape than I am and then he's like Dad but you're wrong about this one thing and we we debated about it and it turned out he was wrong yet again and I said to him do you ever think to yourself like why do I disagree with that because you're always wrong like your record is not like 50 50."
+        }
+      ],
+      "status": "source_supported"
+    },
+    "roadmap": {
+      "matching_sources": 460,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录05 沟通领导与成长/220111 Create A Worthy Goal.md",
+          "title": "220111 Create A Worthy Goal",
+          "url": "https://www.youtube.com/watch?v=Bi16B8s6XI0",
+          "date": "2022-01-11",
+          "sha256": "c494359690b3c2305cffd8ff6a4a71c2334cbdb3f9959eac4afb9453c7b950d3",
+          "chars": 58763,
+          "excerpt": "I want to do the same for for goal setting because honestly, you know, the goal setting model that almost everybody knows is setting smart goals."
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录02 销售定价与客户/181109 How Strategy Changed My Design Business.md",
+          "title": "181109 How Strategy Changed My Design Business",
+          "url": "https://www.youtube.com/watch?v=yevZjd-YwUY",
+          "date": "2018-11-09",
+          "sha256": "1636d094677d49ae9f5a5dd7349f71f83ba9d93f15f0014ac62c63959baa0206",
+          "chars": 41475,
+          "excerpt": "Chris Do shares his trials and tribulations before discovering a strategic framework in CORE."
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录04 商业创业与经营/170720 Grow Your Business— Have Clear Goals Ep. 5.md",
+          "title": "170720 Grow Your Business— Have Clear Goals Ep. 5",
+          "url": "https://www.youtube.com/watch?v=II7vYSnq2P8",
+          "date": "2017-07-20",
+          "sha256": "2500d6e73f6d8743993d17e84af2a95681c84d33ca3d8162bb42d552136a283a",
+          "chars": 38744,
+          "excerpt": "ms like your your goal of reaching your fin Financial uh goal annual goal of $100,000 really is not that far away okay so now we probably have to do something what do we need to do well so you started off first with the business goal of Revenue so would you say that is the most important goal one should have when making business goals that's the one you came in with first so what other goals are there well like one I've been thinking about recently which I think it does tie in with this the reve"
+        }
+      ],
+      "status": "source_supported"
+    },
+    "positioning": {
+      "matching_sources": 466,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 品牌营销与内容/190829 What Is The Difference Between Branding & Marketing- What's more important-.md",
+          "title": "190829 What Is The Difference Between Branding & Marketing- What's more important-",
+          "url": "https://www.youtube.com/watch?v=yK7Rk7Oe588",
+          "date": "2019-08-29",
+          "sha256": "980f699cfecfac14ac0ba55bf87f4bba517d1bb56a36863068deb7a6b8dc68e9",
+          "chars": 38394,
+          "excerpt": "Donald Miller, author of Building A Story Brand recently put it out there that marketing is the first and most important thing you do as"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 品牌营销与内容/251016 Reluctant Coach Wants To Build Personal Brand (w- Matt Essam) Ep. 2.md",
+          "title": "251016 Reluctant Coach Wants To Build Personal Brand (w- Matt Essam) Ep. 2",
+          "url": "https://www.youtube.com/watch?v=PZgRQpu61k4",
+          "date": "2025-10-16",
+          "sha256": "b37848daf421bc9023e5a27e709ab62ca9849217e459242ec21657f82b1f87c0",
+          "chars": 113120,
+          "excerpt": "And so I think I've always equated in my mind when you talk about personal branding or when I hear people talk about personal branding, it's like, oh, I have to be like a Hormosi or I have to be a Chris Doe or I have to be a Steven Bartlett before I get any kind of level of success."
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 品牌营销与内容/230411 Brand Principles For The 21st Century with Kevin Finn (some explicit language).md",
+          "title": "230411 Brand Principles For The 21st Century with Kevin Finn (some explicit language)",
+          "url": "https://www.youtube.com/watch?v=Xzlv_KHIIUM",
+          "date": "2023-04-11",
+          "sha256": "6a8d83bcbad4c5735bab9a3c37d93e566fbe7a9b8bcdc4840f23dcad8a679079",
+          "chars": 41379,
+          "excerpt": "There’s so much more that makes a brand what it is, and as such, there’s so much more that designers can do for businesses that are building a brand."
+        }
+      ],
+      "status": "source_supported"
+    },
+    "pricing": {
+      "matching_sources": 440,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录02 销售定价与客户/220922 What Makes People Buy- Price & Value Masterclass w- Ron Baker.md",
+          "title": "220922 What Makes People Buy- Price & Value Masterclass w- Ron Baker",
+          "url": "https://www.youtube.com/watch?v=TB54_6bEP-A",
+          "date": "2022-09-22",
+          "sha256": "ac4ccd77adf6ea1951ff3a33c25d2f98b53e4f8ba443200868ce1e71afec893b",
+          "chars": 58821,
+          "excerpt": "And if you think about it, without price discrimination, the ability to charge different customers different prices irrespective of cost to serve those customers, there's incredible welfare effects to an economy from price discrimination."
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录02 销售定价与客户/250408 How I Went From Charging $500 to $100,000 For A Logo (PRICING DEEP DIVE).md",
+          "title": "250408 How I Went From Charging $500 to $100,000 For A Logo (PRICING DEEP DIVE)",
+          "url": "https://www.youtube.com/watch?v=b0fQyaBSSI0",
+          "date": "2025-04-08",
+          "sha256": "d9ae0aab557e7c24e2968e9874b1015c12b7c12d675d8dc2670d6417630bbd24",
+          "chars": 41175,
+          "excerpt": "So, let's talk about some of the common mistakes that you're going to do when you're doing value based pricing, when you're trying to price a client and not the job."
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录02 销售定价与客户/190412 How To Charge For Design—Value Based Pricing.md",
+          "title": "190412 How To Charge For Design—Value Based Pricing",
+          "url": "https://www.youtube.com/watch?v=ivKnj9ffcmE",
+          "date": "2019-04-12",
+          "sha256": "95a0bc57e8ed3ffb6eba57be33cead5e382a8bd23570cf4f8dedb6b927b60ee4",
+          "chars": 40042,
+          "excerpt": "So, when you let them name this price, when you let them name their own price, that's where the real value comes in and now you can negotiate, okay?"
+        }
+      ],
+      "status": "source_supported"
+    },
+    "discovery": {
+      "matching_sources": 499,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录02 销售定价与客户/240725 Never Get Ghosted Again- Listening Techniques That Close Deals. w- Jule Kim (Part. 1).md",
+          "title": "240725 Never Get Ghosted Again- Listening Techniques That Close Deals. w- Jule Kim (Part. 1)",
+          "url": "https://www.youtube.com/watch?v=vvqV-sN1xRc",
+          "date": "2024-07-25",
+          "sha256": "c332e5b4c8927b6dcd1c64b7ebf3f76950a486f386b96e33f3949d31b488598a",
+          "chars": 101148,
+          "excerpt": "feel really comp to speak is towards the end when I'd like to summarize or provide insights unless the clients are asking me lots of questions but even when they ask me a question I just want to turn around and ask them more questions okay how do you do that without coming off evasive can you give me an example of when you think somebody's asking a question and it feels evasive to you well only if I've asked them a question first and then they turn it back on me sometimes I've seen some of our"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录02 销售定价与客户/250911 LinkedIn Masterclass- How to Generate High-Value Leads Organically.md",
+          "title": "250911 LinkedIn Masterclass- How to Generate High-Value Leads Organically",
+          "url": "https://www.youtube.com/watch?v=R2J67k2Z6WU",
+          "date": "2025-09-11",
+          "sha256": "56962d89246bcde06f33f9b5b1ca1f3e0015de7d67bb2f00997a1634d76d9273",
+          "chars": 127304,
+          "excerpt": "Before answering, when Thinking about how to present Good question, think of three Methods: A question whose answer is yes Or no, okay?"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录03 设计创意与职业/250223 Why You’re Not Making Real Money - (Creative Pulse Fireside).md",
+          "title": "250223 Why You’re Not Making Real Money - (Creative Pulse Fireside)",
+          "url": "https://www.youtube.com/watch?v=hC2_b-y6zuc",
+          "date": "2025-02-23",
+          "sha256": "a25be6c9245cd725a4b4cfd9bc423634e75be7ae5b88dc7c4b0c73bbffc33a62",
+          "chars": 80479,
+          "excerpt": "you never met it's not that hard and I will show it to you live demonstration how to find the answer in the question so a well- constructed question is like at least 50% of the answer it's really weird and you'll see and I'll diagram it for you but I need a good question to start what happens inevitably is you ask terrible questions it takes me so long to get through but once we were able to get the question on the board the answer will be evident to almost everybody except for the person asking"
+        }
+      ],
+      "status": "source_supported"
+    },
+    "sales": {
+      "matching_sources": 292,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录02 销售定价与客户/140917 Overcoming Client Objections in Sales.md",
+          "title": "140917 Overcoming Client Objections in Sales",
+          "url": "https://www.youtube.com/watch?v=OuOL8xQGpyE",
+          "date": "2014-09-17",
+          "sha256": "07d59327de565287a5c64b65ef8bce3bee8ee70ed474ec0f38a4a42f0f4ee14a",
+          "chars": 33093,
+          "excerpt": "ay seven days a night references give them three past clients have it ready to go put it in your proposal use proposals even for your your film kind of stuff even if it's a two sheeter you know put a really tight proposal that looks really good Chris do makes him super fancy I make him a little less fancy and I make him in PowerPoint he makes him in a document it doesn't matter just put the stuff into a document and make sure you have references three past clients with the email and the phone th"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录02 销售定价与客户/240528 How To Respond To The 3 Most Common Client Objections in Sales.md",
+          "title": "240528 How To Respond To The 3 Most Common Client Objections in Sales",
+          "url": "https://www.youtube.com/watch?v=4kmc253GZWs",
+          "date": "2024-05-28",
+          "sha256": "ef2de81f810005444b1f1a14496f2b34d7cb452e8bd1dad209ebd2e81e7d7b4f",
+          "chars": 12899,
+          "excerpt": "clients to go in a particular creative Direction sound kind of familiar or why do clients have such bad taste how do I convince and so the word convince means or seems to me to imply that you're moving them from their point to your point and it's a lot of friction I'm going to teach you a different way of doing this okay so I'm going to talk about a couple things determining value understanding the client Dynamic and overcoming objections in the sales cycle in any sales cycle there are going to"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录02 销售定价与客户/251211 The Secret to Handling Any Sales Objection (They’ll Never See It Coming).md",
+          "title": "251211 The Secret to Handling Any Sales Objection (They’ll Never See It Coming)",
+          "url": "https://www.youtube.com/watch?v=-_sTrDwoZyM",
+          "date": "2025-12-11",
+          "sha256": "59419e1c5fb07767e44328286b440a744c473fbd7a4077eade8fccc3b63d2ab0",
+          "chars": 5461,
+          "excerpt": "The problem is everybody here a doesn't think about what those objections are and is too scared to bring them up."
+        }
+      ],
+      "status": "source_supported"
+    },
+    "client-management": {
+      "matching_sources": 522,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录02 销售定价与客户/260624 Easy Way to Get Clients Without Ads or Cold DM's - FREE 2 HOUR MASTERCLASS.md",
+          "title": "260624 Easy Way to Get Clients Without Ads or Cold DM's - FREE 2 HOUR MASTERCLASS",
+          "url": "https://www.youtube.com/watch?v=dOZkAqR_2lA",
+          "date": "2026-06-24",
+          "sha256": "f193f6bde1b7a3d4ba13aa986702bbb913eaa91208426145487c392669f466db",
+          "chars": 152915,
+          "excerpt": "Because if it's valuable for your end clients, your ideal clients, who are also their ideal clients, then by default, it's probably going to be valuable to them."
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录02 销售定价与客户/231226 Crafting a Great Client Experience—From Mediocre to Memorable.md",
+          "title": "231226 Crafting a Great Client Experience—From Mediocre to Memorable",
+          "url": "https://www.youtube.com/watch?v=w0xZyxT23Mw",
+          "date": "2023-12-26",
+          "sha256": "3a2a189578525e81902100ea1d7c544323fcbe059c1e8a06b99ed9a0ef0f3380",
+          "chars": 41676,
+          "excerpt": "Are you ready to elevate your client experience and skyrocket your business success?"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录02 销售定价与客户/151020 The Client Is Not Your Enemy- Redefining Your Client Relationship.md",
+          "title": "151020 The Client Is Not Your Enemy- Redefining Your Client Relationship",
+          "url": "https://www.youtube.com/watch?v=k22HKpzDMg4",
+          "date": "2015-10-20",
+          "sha256": "ae5ab94b58fb3bd0fbfcf4ac6e93c9f3ab5d74882819492f1192934db1f3d1da",
+          "chars": 32764,
+          "excerpt": "okay so the first thing we need to do is we need to kind of be more empathetic we have to understand what it's like to be a client, some of you guys have been clients before so I want you to think about that, what is it to be a client?"
+        }
+      ],
+      "status": "source_supported"
+    }
+  },
+  "policy": "One source per video ID/article URL; complete Chinese preferred, English fallback; speakers require verification.",
+  "gaps": [
+    "Automatic topic matches are a navigation aid, not proof of a doctrine.",
+    "Interview speaker attribution must be verified before quoting a named person.",
+    "Initial library contains bounded source excerpts, not AI-distilled conclusions."
+  ]
+}

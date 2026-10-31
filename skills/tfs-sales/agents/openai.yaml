@@ -1,0 +1,4 @@
+interface:
+  display_name: "The Futur · 提案与异议处理"
+  short_description: "Build a 提案与异议处理 using expert methodology"
+  default_prompt: "Use $tfs-sales to build a practical 提案与异议处理 for my situation."

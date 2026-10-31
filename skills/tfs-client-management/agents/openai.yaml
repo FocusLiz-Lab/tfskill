@@ -1,0 +1,4 @@
+interface:
+  display_name: "The Futur · 项目范围与客户关系"
+  short_description: "Build a 项目范围与客户关系 using expert methodology"
+  default_prompt: "Use $tfs-client-management to build a practical 项目范围与客户关系 for my situation."

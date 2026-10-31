@@ -1,0 +1,4 @@
+interface:
+  display_name: "The Futur工具箱"
+  short_description: "The Futur expert workflow router"
+  default_prompt: "Use $tfs to route and solve my 创意专业服务与客户合作 problem."
